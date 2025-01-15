@@ -18,7 +18,7 @@ terraform {
     organization = "we-want-jobs"
 
     workspaces {
-      name = "gh-actions-demo"
+      name = "learn-gh-actions-demo"
     }
   }
 }
